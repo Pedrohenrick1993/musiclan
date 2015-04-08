@@ -9,13 +9,13 @@ var paths = {
 	scripts: ['src/js/vendors/*.js', 'src/js/app/*.js', 'src/js/app.js'],
 	styles: 'src/sass/**/*.scss',
 	images: 'src/images/**/*.{png,jpeg,jpg,gif,ico,svg}',
-	fonts: 'src/fonts/**/*.{eot,svg,ttf,woff}',
+	fonts: 'src/fonts/**/*.{eot,svg,ttf,woff,woff2}',
 	extras: 'src/*.*',
 	dest: {
 		scripts : 'dist/js',
 		styles: 'dist/css',
 		images: 'dist/images',
-		fonts: 'dist/fonts',
+		fonts: 'dist/font',
 		extras: 'dist'
 	}
 };

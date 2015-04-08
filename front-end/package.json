@@ -1,5 +1,5 @@
 {
-  "name": "base-jussi",
+  "name": "base-musiclan",
   "devHost": "localhost",
   "version": "1.0.0",
   "private": true,
@@ -8,7 +8,6 @@
     "browser-sync": "^1.7.2",
 	"del": "^1.1.0",
     "gulp": "^3.8.10",
-    "gulp-autoprefixer": "^2.0.0",
     "gulp-csso": "^0.2.9",
     "gulp-imagemin": "^2.0.0",
     "gulp-jshint": "^1.9.0",
